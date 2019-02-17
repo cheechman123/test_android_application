@@ -10,13 +10,13 @@
 
     <TextView
         android:id="@+id/author2"
-        android:layout_width="377dp"
+        android:layout_width="0dp"
         android:layout_height="134dp"
-        android:layout_marginStart="34dp"
-        android:layout_marginLeft="34dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginLeft="16dp"
         android:layout_marginTop="32dp"
-        android:layout_marginEnd="34dp"
-        android:layout_marginRight="34dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginRight="16dp"
         android:textSize="22sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

@@ -29,16 +29,6 @@
             </intent-filter>
         </activity>
 
-        <!--<activity-->
-            <!--android:name=".SecondActivity"-->
-            <!--android:label="@string/title_activity_second"-->
-            <!--android:theme="@style/AppTheme">-->
-            <!--<intent-filter>-->
-                <!--<action android:name=".AuthorActivity" />-->
-
-                <!--<category android:name="android.intent.category.DEFAULT" />-->
-            <!--</intent-filter>-->
-        <!--</activity>-->
     </application>
 
 </manifest>
